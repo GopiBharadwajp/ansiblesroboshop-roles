@@ -1,2 +1,2 @@
-REDIS_HOST: redis.gorobo.site
-MONGODB_HOST: mongodb.gorobo.site
+REDIS_HOST: "redis.gorobo.site"
+MONGODB_HOST: "mongodb.gorobo.site"
