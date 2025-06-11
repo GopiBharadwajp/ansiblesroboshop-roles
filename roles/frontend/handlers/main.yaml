@@ -1,8 +1,4 @@
 
-- name: Test Nginx config
-  command: nginx -t
-
-
 - name: Restart nginx
   ansible.builtin.service:
     name: nginx
