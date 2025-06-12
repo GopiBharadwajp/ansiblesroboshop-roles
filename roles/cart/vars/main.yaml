@@ -1,2 +1,2 @@
-REDIS_HOST: redid.gorobo.site
+REDIS_HOST: redis.gorobo.site
 CATALOGUE_HOST: catalogue.gorobo.site
