@@ -1,3 +1,4 @@
 CATALOGUE_HOST: catalogue.gorobo.site
 USER_HOST: user.gorobo.site
 CART_HOST: cart.gorobo.site
+SHIPPING_HOST: shipping.gorobo.site
