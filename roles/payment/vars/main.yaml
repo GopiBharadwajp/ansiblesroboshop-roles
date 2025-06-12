@@ -1,5 +1,5 @@
 CART_HOST: cart.gorobo.site
 USER_HOST: user.gorobo.site
 RABBITMQ_HOST: rabbitmq.gorobo.site
-AMQP_HOST: roboshop
-AMQP_PASS: roboshop123
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
