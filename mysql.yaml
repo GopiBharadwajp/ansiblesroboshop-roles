@@ -5,3 +5,4 @@
   - vault/mysql.yaml
   roles:
   - "{{ component }}"
+
