@@ -1,8 +1,6 @@
-- name: " configure {{ component }} "
+- name: "configure {{ component }} component"
   become: yes
   hosts: "{{ component }}"
-  vars-files:
-  - vault/mysql.yaml
   roles:
   - "{{ component }}"
 
