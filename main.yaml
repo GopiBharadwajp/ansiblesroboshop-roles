@@ -3,5 +3,6 @@
  # hosts: "{{ component }}"
   hosts: localhost
   connetcion: local
+  
   roles:
   - "{{ component }}"
